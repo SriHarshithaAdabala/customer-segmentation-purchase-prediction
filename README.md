@@ -1,5 +1,5 @@
 # 🛒 Customer Segmentation & Purchase Prediction (ML-based Streamlit App)
-<img width="978" height="222" alt="image" src="https://github.com/user-attachments/assets/ced4d602-ba04-42e4-a574-3380d9e56a4d" />
+<img width="1911" height="754" alt="image" src="https://github.com/user-attachments/assets/06071742-8a2a-4630-bd73-785094782918" />
 An interactive Streamlit application...
 
 ## 📸 App Preview
