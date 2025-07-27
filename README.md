@@ -1,4 +1,16 @@
 # 🛒 Customer Segmentation & Purchase Prediction (ML-based Streamlit App)
+<img width="978" height="222" alt="image" src="https://github.com/user-attachments/assets/ced4d602-ba04-42e4-a574-3380d9e56a4d" />
+An interactive Streamlit application...
+
+## 📸 App Preview
+
+### 🔹 Input & Prediction Panel
+<img width="1909" height="760" alt="image" src="https://github.com/user-attachments/assets/3310b0d2-1360-449d-87bd-ef88e50d0e92" />
+<img width="1918" height="756" alt="image" src="https://github.com/user-attachments/assets/3f0e087a-34c6-474f-8928-d6a546e955e1" />
+
+### 🔹 Segment Analysis Charts
+<img width="1904" height="669" alt="image" src="https://github.com/user-attachments/assets/aecb180a-52b2-462a-9bbf-0f3b36c7cc3c" />
+<img width="1859" height="611" alt="image" src="https://github.com/user-attachments/assets/abc9d685-6a14-4eea-a8bd-115c388bb193" />
 
 This interactive machine learning project allows businesses to **segment customers** and **predict whether they are likely to make a purchase next month**, using key behavioral metrics such as total orders, spending, and recency.
 
